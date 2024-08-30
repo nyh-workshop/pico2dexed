@@ -1,0 +1,171 @@
+#######################################
+# Syntax Coloring Map For Synth_Dexed
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Dexed	KEYWORD1
+AudioSynthDexed KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# Global methods
+activate	KEYWORD2
+deactivate	KEYWORD2
+getMonoMode	KEYWORD2
+setMonoMode	KEYWORD2
+setNoteRefreshMode	KEYWORD2
+setMaxNotes	KEYWORD2
+getMaxNotes	KEYWORD2
+doRefreshVoice	KEYWORD2
+setOPAll	KEYWORD2
+decodeVoice	KEYWORD2
+encodeVoice	KEYWORD2
+getVoiceData	KEYWORD2
+setVoiceDataElement	KEYWORD2
+getVoiceDataElement	KEYWORD2
+loadInitVoice	KEYWORD2
+loadVoiceParameters	KEYWORD2
+getNumNotesPlaying	KEYWORD2
+getXRun	KEYWORD2
+getRenderTimeMax	KEYWORD2
+resetRenderTimeMax	KEYWORD2
+ControllersRefresh	KEYWORD2
+setVelocityScale	KEYWORD2
+getVelocityScale	KEYWORD2
+setVelocityScale	KEYWORD2
+setEngineType	KEYWORD2
+getEngineType	KEYWORD2
+checkSystemExclusive	KEYWORD2
+
+# Sound methods	KEYWORD2
+keyup	KEYWORD2
+keydown	KEYWORD2
+setSustain	KEYWORD2
+getSustain	KEYWORD2
+panic	KEYWORD2
+notesOff	KEYWORD2
+resetControllers	KEYWORD2
+setMasterTune	KEYWORD2
+getMasterTune	KEYWORD2
+setPortamentoMode	KEYWORD2
+setPBController	KEYWORD2
+setMWController	KEYWORD2
+setFCController	KEYWORD2
+setBCController	KEYWORD2
+setATController	KEYWORD2
+setModWheel	KEYWORD2
+getModWheel	KEYWORD2
+setBreathController	KEYWORD2
+getBreathController	KEYWORD2
+setFootController	KEYWORD2
+getFootController	KEYWORD2
+setAftertouch	KEYWORD2
+getAftertouch	KEYWORD2
+setPitchbend	KEYWORD2
+getPitchbend	KEYWORD2
+setPitchbendRange	KEYWORD2
+getPitchbendRange	KEYWORD2
+setPitchbendStep	KEYWORD2
+getPitchbendStep	KEYWORD2
+setModWheelRange	KEYWORD2
+getModWheelRange	KEYWORD2
+setModWheelTarget	KEYWORD2
+getModWheelTarget	KEYWORD2
+setFootControllerRange	KEYWORD2
+getFootControllerRange	KEYWORD2
+setFootControllerTarget	KEYWORD2
+getFootControllerTarget	KEYWORD2
+setBreathControllerRange	KEYWORD2
+getBreathControllerRange	KEYWORD2
+setBreathControllerTarget	KEYWORD2
+getBreathControllerTarget	KEYWORD2
+setAftertouchRange	KEYWORD2
+getAftertouchRange	KEYWORD2
+setAftertouchTarget	KEYWORD2
+getAftertouchTarget	KEYWORD2
+setFilterCutoff	KEYWORD2
+getFilterCutoff	KEYWORD2
+setFilterResonance	KEYWORD2
+getFilterResonance	KEYWORD2
+setGain	KEYWORD2
+getGain	KEYWORD2
+
+# Voice configuration methods	KEYWORD2
+setOPRateAll	KEYWORD2
+setOPLevelAll	KEYWORD2
+setOPRateAllCarrier	KEYWORD2
+setOPLevelAllCarrier	KEYWORD2
+setOPRateAllModulator	KEYWORD2
+setOPLevelAllModulator	KEYWORD2
+setOPRate	KEYWORD2
+getOPRate	KEYWORD2
+setOPLevel	KEYWORD2
+getOPLevel	KEYWORD2
+setOPKeyboardLevelScalingBreakPoint	KEYWORD2
+getOPKeyboardLevelScalingBreakPoint	KEYWORD2
+setOPKeyboardLevelScalingDepthLeft	KEYWORD2
+getOPKeyboardLevelScalingDepthLeft	KEYWORD2
+setOPKeyboardLevelScalingDepthRight	KEYWORD2
+getOPKeyboardLevelScalingDepthRight	KEYWORD2
+setOPKeyboardLevelScalingCurveLeft	KEYWORD2
+getOPKeyboardLevelScalingCurveLeft	KEYWORD2
+setOPKeyboardLevelScalingCurveRight	KEYWORD2
+getOPKeyboardLevelScalingCurveRight	KEYWORD2
+setOPKeyboardRateScale	KEYWORD2
+getOPKeyboardRateScale	KEYWORD2
+setOPAmpModulationSensity	KEYWORD2
+getOPAmpModulationSensity	KEYWORD2
+setOPKeyboardVelocitySensity	KEYWORD2
+getOPKeyboardVelocitySensity	KEYWORD2
+setOPOutputLevel	KEYWORD2
+getOPOutputLevel	KEYWORD2
+setOPMode	KEYWORD2
+getOPMode	KEYWORD2
+setOPFrequencyCoarse	KEYWORD2
+getOPFrequencyCoarse	KEYWORD2
+setOPFrequencyFine	KEYWORD2
+getOPFrequencyFine	KEYWORD2
+setOPDetune	KEYWORD2
+getOPDetune	KEYWORD2
+setPitchRate	KEYWORD2
+getPitchRate	KEYWORD2
+setPitchLevel	KEYWORD2
+getPitchLevel	KEYWORD2
+setAlgorithm	KEYWORD2
+getAlgorithm	KEYWORD2
+setFeedback	KEYWORD2
+getFeedback	KEYWORD2
+setOscillatorSync	KEYWORD2
+getOscillatorSync	KEYWORD2
+setLFOSpeed	KEYWORD2
+getLFOSpeed	KEYWORD2
+setLFODelay	KEYWORD2
+getLFODelay	KEYWORD2
+setLFOPitchModulationDepth	KEYWORD2
+getLFOPitchModulationDepth	KEYWORD2
+setLFOAmpModulationDepth	KEYWORD2
+getLFOAmpModulationDepth	KEYWORD2
+setLFOSync	KEYWORD2
+getLFOSync	KEYWORD2
+setLFOWaveform	KEYWORD2
+getLFOWaveform	KEYWORD2
+setLFOPitchModulationSensitivity	KEYWORD2
+getLFOPitchModulationSensitivity	KEYWORD2
+setTranspose	KEYWORD2
+getTranspose	KEYWORD2
+setName	KEYWORD2
+getName	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+

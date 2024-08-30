@@ -1,0 +1,17 @@
+orig_code/synth.h
+orig_code/aligned_buf.h
+orig_code/sin.h
+orig_code/exp2.h
+orig_code/fast_log.h
+orig_code/freqlut.h
+orig_code/lfo.h
+orig_code/env.h
+orig_code/pitchenv.h
+orig_code/controllers.h
+orig_code/PluginFx.h
+orig_code/fm_op_kernel.h
+orig_code/fm_core.h
+orig_code/dx7note.h
+orig_code/dexed.h
+orig_code/porta.h
+orig_code/source_microdexed.h
